@@ -1,0 +1,9 @@
+{
+    "name": "text-to-dhvani",
+    "version": "0.0.1",
+    "description": "Text to dhvani",
+    "dependencies": {
+        "sshpk": "^1.13.1",
+        "less": "^2.7.3"
+    }
+}
